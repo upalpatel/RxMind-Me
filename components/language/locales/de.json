@@ -1,0 +1,19 @@
+{
+  "appName": "RxMind-Me",
+  "navigation": {
+    "Login": "Anmeldung",
+    "Options": "Optionen",
+  },
+  "Options": {
+    "Eye": "Helles dunkles Thema",
+    "Color": "Farb-Personalisierung",
+    "Hospitals": "Krankenhäuser",
+    "QRScanner": "QR Code Scanner",
+    "Language": "Sprachauswahl"
+  },
+  "language_list": {
+    "change_language": "Sprache ändern?",
+    "ok": "Ändern",
+    "cancel": "Stornieren"
+  }
+}
